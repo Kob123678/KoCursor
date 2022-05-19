@@ -1,0 +1,8 @@
+How to get rainbow cursor??
+1.Go to open window then type "Roblox"
+2.Click "Open file location" under Roblox Player
+3.Right click on Roblox Player
+4.Click Open file location
+5.Drag "content" to roblox folder
+6.Click "Replace the files in the destination"
+7.Done :)
